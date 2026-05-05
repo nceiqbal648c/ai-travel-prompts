@@ -36,3 +36,7 @@ Use CapCut → add images → slow zoom → cinematic music.
 🚀 Goal
 
 Create viral travel content using AI.
+
+## 📸 Sample Output
+
+![Travel](lv_0_20260505112118~2.jpg)
